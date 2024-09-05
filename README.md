@@ -2,6 +2,11 @@
 
 Este projeto está sendo desenvolvido durante a Imersão Dev com Gemini, onde estamos criando uma página de buscas do zero, explorando desde os fundamentos do desenvolvimento web até a aplicação prática do Gemini.
 
+<br>
+
+![imagem](/src/img/previewdesktop.png)
+
+<br>
 
 ## 🚀 Sobre o Projeto
 
